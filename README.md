@@ -10,3 +10,6 @@ This is the archive repository of Bits'26 competition.
 
 ### [**WEEK-3**](./Week_3/Week3.md) 
 15 basic tasks with 10 points each.
+
+### [**WEEK-4**](./Week_4/Week4.md) 
+6 basic tasks with 100 points each.
